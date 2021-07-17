@@ -14,3 +14,5 @@ i am next another line from master branch
 another next line from test branch
 
 checking changes from master branch into test branch while merging
+
+merged successfully. editing from browsers
