@@ -8,9 +8,6 @@ i am from master branch
 i am from test branch
 
 i am another line from master branch
+i am another line from test branch
 
-<<<<<<< HEAD
-i am another line from test branch
-=======
-i am another line from test branch
->>>>>>> 30574d5 (next to another line from test)
+i am next another line from master branch
