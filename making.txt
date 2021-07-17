@@ -9,4 +9,8 @@ i am from test branch
 
 i am another line from master branch
 
+<<<<<<< HEAD
 i am another line from test branch
+=======
+i am another line from test branch
+>>>>>>> 30574d5 (next to another line from test)
