@@ -7,6 +7,6 @@ Adding new line in master branch in making.txt
 i am from master branch
 i am from test branch
 
-i am next line from master branch
+i am another line from master branch
 
-i am next line from test branch
+i am another line from test branch
